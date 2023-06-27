@@ -1,1 +1,1 @@
-# rock-paper-scissors2
+recreating the rock paper scissors html game for practise and relearning
